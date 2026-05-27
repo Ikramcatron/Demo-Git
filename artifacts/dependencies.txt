@@ -1,0 +1,15 @@
+# Dependencies
+
+No runtime or development package dependencies are currently declared.
+
+Detected package manifests:
+- package.json: not present
+- pyproject.toml: not present
+- requirements.txt: not present
+- Cargo.toml: not present
+- go.mod: not present
+
+Repository baseline:
+- Git repository: yes
+- Source files: none detected
+- Project README: README.md
