@@ -1,0 +1,21 @@
+{
+  "project": "Demo-Git",
+  "generated_at": "2026-05-27T16:24:00Z",
+  "summary": {
+    "status": "not_run",
+    "total": 0,
+    "passed": 0,
+    "failed": 0,
+    "skipped": 0
+  },
+  "environment": {
+    "os": "linux 6.1.147",
+    "repository_state": "placeholder README only",
+    "test_command": null
+  },
+  "suites": [],
+  "notes": [
+    "No source files or test framework are currently present in the repository.",
+    "This report records the current demo baseline rather than results from an executable test suite."
+  ]
+}
